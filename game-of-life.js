@@ -1,6 +1,7 @@
 /**
  * @param {number[][]} board
  * @return {void} Do not return anything, modify board in-place instead.
+ * https://leetcode.com/problems/game-of-life/
  */
 var gameOfLife = function (board) {
     let temp = [];
